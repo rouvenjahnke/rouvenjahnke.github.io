@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /impressum.html
+permalink: /impressum/
 title: "Impressum"
 description: 
 ---
