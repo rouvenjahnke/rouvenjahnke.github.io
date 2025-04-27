@@ -7,15 +7,17 @@ description:
 
 **Information according to § 5 TMG:**
 
-Rouven Jahnke
-Smaalkoppel 24B
-22113 Oststeinbek
+Rouven Jahnke  
+Smaalkoppel 24B  
+22113 Oststeinbek  
 Germany
 
 **Contact:**
+
 Email: rouven.jahnke@web.de
 
 **Responsible for content according to § 18 Abs. 2 MStV:**
+
 see above
 
 **Disclaimer:**
